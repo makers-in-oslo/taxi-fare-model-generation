@@ -6,7 +6,7 @@
 *.pkl
 *.rtf
 
-#vscode 
+# VS Code 
 .vscode/*
 
 __pycache__/
